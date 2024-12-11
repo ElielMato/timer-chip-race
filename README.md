@@ -2,6 +2,10 @@
 
 This project aims to create a race timing system to record the times of participants using programmed chips. The system is developed in **C#** and allows tracking the time each runner takes to complete a section of the race as they pass through a checkpoint with a programmed chip or similar device. In the future, this system could be integrated with chip readers to automate data collection.
 
+## Project Status
+
+🚧 **In Development** 🚧
+
 ## Features
 
 - **Time Registration**: Records the time each participant takes to complete a race section.
